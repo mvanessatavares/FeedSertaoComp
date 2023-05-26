@@ -33,7 +33,7 @@ const posts = [
       {
         name: "Joana Barbosa",
         avatar: "https://th.bing.com/th/id/R.a1840794ab6c7a213da2f44655ba827d?rik=Rs2UZPDPR7j1MA&riu=http%3a%2f%2fwdy.h-cdn.co%2fassets%2f17%2f10%2f320x320%2fsquare-1488913836-gettyimages-485208893.jpg&ehk=39iMDwHSAOo3bNLs6guXhJz%2bB99hDQwXv3%2fcWH0DnjE%3d&risl=&pid=ImgRaw&r=0",
-        text: `Adorei a palestra!! 👏👏`,
+        text: `Adorei o minicurso!! 👏👏`,
         publicationDate: new Date("2023-05-01T10:30:00"),
         like: 5,
       },
