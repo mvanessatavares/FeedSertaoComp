@@ -74,7 +74,7 @@ export function Post({
           <hr />
         </main>
         <footer className={styles["feedback-container"]}>
-          <strong>Deixe seu Deixe seu feedback</strong>
+          <strong> Deixe seu feedback </strong>
           <textarea placeholder="Deixe seu comentário" rows={4}></textarea>
           <button className={styles.btn}>Publicar</button>
           {comments.map((comment, index) => (
